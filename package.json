@@ -12,6 +12,7 @@
         "release": "./release.sh"
     },
     "devDependencies": {
+        "@release-it/conventional-changelog": "github:release-it/conventional-changelog",
         "axios": "^0.19",
         "cross-env": "^7.0",
         "laravel-mix": "^5.0.1",
